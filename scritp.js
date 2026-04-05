@@ -1,0 +1,1 @@
+console.log("Sitio Web 2 iniciado 🚀");

@@ -44,3 +44,12 @@ p  { font-size: 1.1rem; color: #aaaaaa; }
   font-weight: 700;
   letter-spacing: 2px;
 }
+
+video {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 12px;
+  border: 3px solid #00ff88;
+  display: block;
+  margin: 20px auto;
+}
